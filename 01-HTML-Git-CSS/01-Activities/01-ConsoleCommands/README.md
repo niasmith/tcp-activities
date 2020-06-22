@@ -1,4 +1,4 @@
-# Bash / Terminal Commands
+md# Bash / Terminal Commands
 
 ## Instructions
 
